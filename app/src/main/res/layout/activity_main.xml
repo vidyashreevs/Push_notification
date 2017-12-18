@@ -33,7 +33,7 @@
         android:layout_marginTop="52dp"
         android:layout_alignRight="@+id/textView2"
         android:layout_alignEnd="@+id/textView2"
-        android:hint="Nameaaaaaaaaa" />
+        android:hint="Nameaaaaaaaaaaaaaaaaaaaaa" />
 
     <EditText
         android:layout_width="wrap_content"
